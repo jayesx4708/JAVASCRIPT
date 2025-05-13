@@ -16,7 +16,7 @@
 // let text="This isStringfrom Cybrom" //ans = String
 // console.log(text.slice(7,13));  
 
-
+// 
 let txt="Hello World!     ";
 let txt1=txt.trim();
 console.log(txt1)

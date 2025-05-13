@@ -28,7 +28,7 @@ console.log(o1);
 let n="Lake City!";   
 let o=n.indexOf("e");
 console.log(o);
-
+// 
 // ----------lastIndexOf---------
 let p="Lake City!";
 let q=p.lastIndexOf("k");
