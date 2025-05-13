@@ -8,7 +8,7 @@
 // // let and const are block scoped
 // // js is top to bottom approch it will show 16 anss
 
-// 
+
 
 // let b=10;
 // // let b //show error
