@@ -17,6 +17,12 @@
 // console.log(arr1.concat(arr2,arr3));
 
 // -----------REVERSE----------
-let arr1=[1,4,7,9,6,3]
-console.log(arr1.reverse());
+// let arr1=[1,4,7,9,6,3]
+// console.log(arr1.reverse());
+
+// -----------CONVERSION----------
+let num=75698
+let n= Number(num.toString().split('').reverse().join(''));
+
+console.log(typeof(n));
 
