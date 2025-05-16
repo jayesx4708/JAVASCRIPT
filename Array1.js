@@ -21,8 +21,13 @@
 // console.log(arr1.reverse());
 
 // -----------CONVERSION----------
-let num=75698
-let n= Number(num.toString().split('').reverse().join(''));
+// let num=75698
+// let n= Number(num.toString().split('').reverse().join(''));
 
-console.log(typeof(n));
+// console.log(typeof(n));
+
+// -----------Destructuring----------
+let arr= ["Apple", "Mango", "Banana", "Grapes"]
+const [a,b,c]= arr //destructing
+console.log(c);
 
