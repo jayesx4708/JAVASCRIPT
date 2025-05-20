@@ -7,6 +7,3 @@
 //  <!-- confirm--->
 //  <!--alert prompt   -->
 //  <!-- alert only show msg wd ok-->
-// 
-// 
-// 
