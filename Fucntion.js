@@ -47,8 +47,7 @@ console.log( "total marks = "+total+ " & percentage "+total/3+"%");
     console.log("your sum is "+sum2); // your sum is 18
 
 
-    // ===========question 4=============
-    // to check if number is positive or negative
+// Q4. to check if number is positive or negative
     let check=(num)=>{
         if(num>0){
             return "positive";
@@ -62,8 +61,9 @@ console.log( "total marks = "+total+ " & percentage "+total/3+"%");
     }
     let value1=check(5);
     console.log("your number is "+value1); // your number is positive
-// ===========question 5=============
-// calculate area of rectangle
+
+
+// Q5. calculate area of rectangle
 let area=(l,b)=>{
     return l*b;
 }
