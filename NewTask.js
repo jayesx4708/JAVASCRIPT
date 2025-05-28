@@ -12,3 +12,6 @@ let dec=()=>{
     count--
     display.innerHTML=count
 }
+
+
+// -----------------------
