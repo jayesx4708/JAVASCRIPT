@@ -10,7 +10,7 @@ let formvalidate=()=>{
     let erremail=document.querySelector("#erremail")
     let errpass=document.querySelector("#errpass")
     let errcpass=document.querySelector("#errcpass")
-}
+
 if(inpname==""){
     let namebox=document.querySelector("#name")
     namebox.style.border="1px solid red"
@@ -47,8 +47,24 @@ else if(isNaN(inpnum)){
    errnumber.style.color="red"
    return false
 }
-// no should only be 10
 else if(inpnum.length!=10){
     errnum.innerHTML="Number should be 10 digits"
     errnum.style.color="red"
 }
+
+else if(pass!=cpass){
+    let passbox=document.querySelector("#pass")
+    let cpassbox=document.querySelector("#cpass")
+    passbox.style.border="1px solid red"
+    cpassbox.style.border="1px solid red"
+    errcpass.innerHTML="Password and Confirm Password should be same"
+   errcpass.style.color="red"
+   return false }
+
+
+    else if ()
+}
+
+
+
+    
