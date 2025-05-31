@@ -59,9 +59,8 @@ else if(pass!=cpass){
     cpassbox.style.border="1px solid red"
     errcpass.innerHTML="Password and Confirm Password should be same"
    errcpass.style.color="red"
-   return false }
-
-
+ 
+   return false }
    
 }
 
