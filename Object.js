@@ -13,7 +13,6 @@ for (let i of arr){
 // }
 // for (let i in welcome){
 //     console.log(i);
-    
 // }
 
 let welcome={
@@ -43,11 +42,12 @@ for (let i in welcome){
 //    })
 //    console.log(newnum);
 
-// let num=[3,6,7,9,12,15]
-//    let newnum= num.map( (e)=>e*e )
+let num=[3,6,7,9,12,15]
+   let newnum= num.map( (e)=>e*e )
 
-//    console.log(newnum);
+   console.log(newnum);
 
+   
 // --------------------------------FILTER METHOD---------------------------------------
 let num=[3,6,7,9,12,15]
    let newnum= num.filter( (e)=>{

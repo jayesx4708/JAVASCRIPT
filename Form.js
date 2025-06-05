@@ -11,12 +11,12 @@ let formvalidate=()=>{
     let errpass=document.querySelector("#errpass")
     let errcpass=document.querySelector("#errcpass")
 
-if(inpname==""){
-    let namebox=document.querySelector("#name")
-    namebox.style.border="1px solid red"
-    errname.innerHTML="Name is required"
-   errname.style.color="red"
-   return false
+// if(inpname==""){
+//     let namebox=document.querySelector("#name")
+//     namebox.style.border="1px solid red"
+//     errname.innerHTML="Name is required"
+//    errname.style.color="red"
+//    return false
 
 }
 else if(inpnum==""){
