@@ -15,13 +15,13 @@ let secondbox=()=>{
   name.style.backgroundImage=" url('https://tse3.mm.bing.net/th?id=OIP.LMMfNeXMfBbCD8MgBaM8ewHaEK&pid=Api&P=0&h=180')"
   name.style.backgroundSize="cover"
 }
-// let thirdbox=()=>{
-//  let name=document.querySelector(".main")
-// //   name.style.backgroundColor="white"
-//   name.style.border="2px solid black"
+let thirdbox=()=>{
+ let name=document.querySelector(".main")
+//   name.style.backgroundColor="white"
+  name.style.border="2px solid black"
 
-//     name.style.backgroundImage=" url('https://tse3.mm.bing.net/th?id=OIP._xBTtmYvWgLHbYDbEX276wHaEK&pid=Api&P=0&h=180')"
-//     name.style.backgroundSize="cover"
+    name.style.backgroundImage=" url('https://tse3.mm.bing.net/th?id=OIP._xBTtmYvWgLHbYDbEX276wHaEK&pid=Api&P=0&h=180')"
+    name.style.backgroundSize="cover"
 
-// }
+}
 
