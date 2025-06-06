@@ -13,5 +13,3 @@ let dec=()=>{
     display.innerHTML=count
 }
 
-
-// ---------
