@@ -64,8 +64,8 @@ console.log( "total marks = "+total+ " & percentage "+total/3+"%");
 
 
 // Q5. calculate area of rectangle
-let area=(l,b)=>{
-    return l*b;
-}
-let value2=area(5,6);
-console.log("your area is "+value2); // your area is 30
+// let area=(l,b)=>{
+//     return l*b;
+// }
+// let value2=area(5,6);
+// console.log("your area is "+value2); // your area is 30
