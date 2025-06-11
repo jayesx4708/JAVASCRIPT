@@ -7,9 +7,9 @@ let inc=()=>{
     
 }
 
-let dec=()=>{
-    let display=document.querySelector("#show");
-    count--
-    display.innerHTML=count
-}
+// let dec=()=>{
+//     let display=document.querySelector("#show");
+//     count--
+//     display.innerHTML=count
+// }
 
