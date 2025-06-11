@@ -47,10 +47,10 @@ else if(isNaN(inpnum)){
    errnumber.style.color="red"
    return false
 }
-// else if(inpnum.length!=10){
-//     errnum.innerHTML="Number should be 10 digits"
-//     errnum.style.color="red"
-// }
+else if(inpnum.length!=10){
+    errnum.innerHTML="Number should be 10 digits"
+    errnum.style.color="red"
+}
 
 else if(pass!=cpass){
     let passbox=document.querySelector("#pass")
