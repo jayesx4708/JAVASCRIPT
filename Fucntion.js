@@ -11,14 +11,14 @@ let obj = () => {
 obj(); // hello
 
 // ============parameterized constructor function============
-// let obj1 = (name) => {
-    // console.log("hello "+name);
-// }
-// obj1("Jayesh");  //this is argument
-// let obj2=(a,b)=>{
-    // console.log(a+b);
-// }
-// obj2(6,7)
+let obj1 = (name) => {
+    console.log("hello "+name);
+}
+obj1("Jayesh");  //this is argument
+let obj2=(a,b)=>{
+    console.log(a+b);
+}
+obj2(6,7)
 
 
 
