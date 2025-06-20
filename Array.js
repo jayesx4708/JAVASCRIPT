@@ -5,7 +5,7 @@
 // // let fru = new Array(1,2,3,4,5)
 // console.log(Fruits);
 
-let fruits=["Banana","Orange","Apple","Mango"];
+// let fruits=["Banana","Orange","Apple","Mango"];
 
 fruits.pop();                        //Removes the last element from the array
 fruits.push("Kiwi");                 //Adds a new element to the end of the array
