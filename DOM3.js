@@ -1,17 +1,17 @@
-let myname= document.querySelector(".box")
-let BTN1=document.querySelector(".BTN1") 
-let BTN2=document.querySelector(".BTN2") 
-let BTN3=document.querySelector(".BTN3") 
+// let myname= document.querySelector(".box")
+// let BTN1=document.querySelector(".BTN1") 
+// let BTN2=document.querySelector(".BTN2") 
+// let BTN3=document.querySelector(".BTN3") 
 
-//inko globally declare kar diya hai to isko baar baar har function me likhne ki jarurat nahi hai1
+// //inko globally declare kar diya hai to isko baar baar har function me likhne ki jarurat nahi hai1
 
-let red=()=>{
+// let red=()=>{
 
-    myname.style.border="2px solid black"
-    // myname.style.backgroundColor="red"
-    BTN1.style.backgroundColor="red"
-    myname.style.backgroundImage="url('https://wallpaperaccess.com/full/338397.jpg')"
-}
+//     myname.style.border="2px solid black"
+//     // myname.style.backgroundColor="red"
+//     BTN1.style.backgroundColor="red"
+//     myname.style.backgroundImage="url('https://wallpaperaccess.com/full/338397.jpg')"
+// }
 
 // let green=()=>{
     
