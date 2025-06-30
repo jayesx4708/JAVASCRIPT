@@ -13,13 +13,13 @@ let red=()=>{
     myname.style.backgroundImage="url('https://wallpaperaccess.com/full/338397.jpg')"
 }
 
-let green=()=>{
+// let green=()=>{
     
-    myname.style.border="2px solid blue"
-    //myname.style.backgroundColor="green"
-    BTN2.style.backgroundColor="green"
-    myname.style.backgroundImage="url('https://images.hdqwalls.com/wallpapers/bmw-m4-artwork-lg.jpg')"
-}
+//     myname.style.border="2px solid blue"
+//     //myname.style.backgroundColor="green"
+//     BTN2.style.backgroundColor="green"
+//     myname.style.backgroundImage="url('https://images.hdqwalls.com/wallpapers/bmw-m4-artwork-lg.jpg')"
+// }
 
 // let reset=()=>{
     
