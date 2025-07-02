@@ -44,18 +44,18 @@ let red=()=>{
     myname.style.backgroundImage="url('https://wallpaperaccess.com/full/338397.jpg')"
 }
 
-// let green=()=>{
+let green=()=>{
     
-//     myname.style.border="2px solid blue"
-//     //myname.style.backgroundColor="green"
-//     BTN2.style.backgroundColor="green"
-//     myname.style.backgroundImage="url('https://images.hdqwalls.com/wallpapers/bmw-m4-artwork-lg.jpg')"
-// }
+    myname.style.border="2px solid blue"
+    //myname.style.backgroundColor="green"
+    BTN2.style.backgroundColor="green"
+    myname.style.backgroundImage="url('https://images.hdqwalls.com/wallpapers/bmw-m4-artwork-lg.jpg')"
+}
 
-// let reset=()=>{
+let reset=()=>{
     
-//     myname.style.border="2px solid black"
-//     myname.style.backgroundColor="white"
-//     BTN3.style.backgroundColor=""
-// }
-// >>>>>>> 81e657a86c5f03fb2ea4504e4eabf394e7907bcc
+    myname.style.border="2px solid black"
+    myname.style.backgroundColor="white"
+    BTN3.style.backgroundColor=""
+}
+>>>>>>> 81e657a86c5f03fb2ea4504e4eabf394e7907bcc
